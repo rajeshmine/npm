@@ -1,0 +1,12 @@
+{
+  "name": "number-manipulation",
+  "version": "1.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rajesh B",
+  "license": "MIT",
+  "keywords": ["number","manipulation","number-manipulation","sum","percentage","modulo","divide","minus"]
+}
